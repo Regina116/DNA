@@ -13,4 +13,5 @@
 3. Ввести: python dna.py databases/"нужная_база" sequenses/"кого_ищем"
 
 НАПРИМЕР ВВОД: python dna.py databases/large.csv sequenses/6.txt
+
 ВЫВОД: Luna
